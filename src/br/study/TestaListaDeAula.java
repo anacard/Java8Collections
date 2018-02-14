@@ -1,4 +1,4 @@
-package br.study.arraylist;
+package br.study;
 
 import java.util.ArrayList;
 import java.util.Comparator;

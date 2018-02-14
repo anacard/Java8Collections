@@ -1,4 +1,4 @@
-package br.study.arraylist;
+package br.study;
 
 public class Aula implements Comparable<Aula>{
 	private String nome;
